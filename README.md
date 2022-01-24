@@ -11,4 +11,9 @@ buotn
 - 几个
 - 到舒服
 
+```sql
+create table huang(
+sex char(2),
+age int
+)
 ```
